@@ -1,0 +1,2 @@
+numpy==1.18.2
+tflite-runtime==2.1.0.post1
